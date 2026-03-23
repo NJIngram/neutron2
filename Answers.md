@@ -19,3 +19,10 @@ Q17. D.
 Q18. B.
 Q19. C.
 Q20: A.
+
+Python Code Tracing Assessment Two
+Q1. Result = 22
+Q2. Sum = 28
+Q3. Status = 5
+Q4. total = 30
+Q5. y = 5
